@@ -87,11 +87,15 @@ cd backend
 
 ## Install the required Python libraries:
 
-<code>pip install flask</code>
+```bash
+pip install flask 
+```
 
 # Run the Flask server:
 
-<code>python app.py</code>
+```bash
+python app.py
+```
 
 The backend will start running on http://127.0.0.1:5000.
 
