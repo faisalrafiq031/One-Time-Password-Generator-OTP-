@@ -73,8 +73,8 @@ Follow these steps to set up and run the project on your local machine:
 
 Clone the Repository:
 
-<code>git clone https://github.com/faisalrafiq031/One-Time-Password-Generator-OTP-
-cd One Time Password Generator (OTP)</code>
+<code>git clone https://github.com/faisalrafiq031/One-Time-Password-Generator-OTP-</code>
+<code>cd One-Time-Password-Generator-OTP-</code>
 
 # Set Up the Backend:
 
