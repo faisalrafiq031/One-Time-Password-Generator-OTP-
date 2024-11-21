@@ -117,4 +117,4 @@ Passwords are refreshed every 10 seconds automatically without requiring any fur
 <li>Auto-Refreshing Timer</li>
 
 # License
-This project is licensed under the <a href="./One-Time-Password-Generator-(OTP)-/LICENSE">MIT License.</a>
+This project is licensed under the <a href="./LICENSE">>MIT License.</a>
