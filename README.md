@@ -72,15 +72,18 @@ Follow these steps to set up and run the project on your local machine:
 # Installation Steps
 
 Clone the Repository:
-
-<code>git clone https://github.com/faisalrafiq031/One-Time-Password-Generator-OTP-
-cd One-Time-Password-Generator-OTP-</code>
+```bash
+git clone https://github.com/faisalrafiq031/One-Time-Password-Generator-OTP-.git
+cd One-Time-Password-Generator-OTP-
+```
 
 # Set Up the Backend:
 
 Navigate to the backend folder:
 
-<code>cd backend</code>
+```bash 
+cd backend
+``` 
 
 ## Install the required Python libraries:
 
